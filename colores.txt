@@ -1,12 +1,12 @@
 - Colores de fondo
-background-llamada-mobile: #00161C;
-background-blanco: #FFFFFF;
+(((((background-llamada-mobile: #00161C;
+(((((background-blanco: #FFFFFF;
 background-azul-claro: #DFE3F5;
 background-ceniza-claro: #F7F4F4;
 background-ceniza-medio: #D9D9D9;
 
 - Borda
-border-cabecera-mobile: #103D4A;
+(((((border-cabecera-mobile: #103D4A;
 
 - Botón
 boton-rojo: #B72E2E;
