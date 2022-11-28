@@ -29,6 +29,9 @@
     color: var(--fuente-ceniza-oscuro);
     font-weight: 700;
 }
+.sobre_nosotros__imagen{
+    display: none;
+}
 @media screen and (min-width: 1024px) {
     .sobre_nosotros {
         display: flex;
@@ -45,6 +48,7 @@
         padding-bottom: 1.5rem;
     }
     .sobre_nosotros__imagen {
+        
         display: block;
     }
 }
